@@ -1,0 +1,1 @@
+HumanAiNet license GNU GPL 2+. HumanAiCore GNU LGPL. Together GNU GPL 2+.
